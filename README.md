@@ -180,7 +180,7 @@ mvn test
 
 ---
 
-# 💑 Exercice 3 - Gestion de l'État Civil
+#  Exercice 3 - Gestion de l'État Civil
 
 ## 🎯 Objectif
 Développer une application de gestion des mariages entre hommes et femmes avec JPA et MySQL.
