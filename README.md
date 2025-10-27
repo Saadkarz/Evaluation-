@@ -7,7 +7,6 @@
 - [Exercice 2 - Gestion de Projets](#exercice-2---gestion-de-projets)
 - [Exercice 3 - Gestion de l'État Civil](#exercice-3---gestion-de-létat-civil)
 - [Installation et Configuration](#installation-et-configuration)
-- [Auteur](#auteur)
 
 ---
 
@@ -90,21 +89,9 @@ Développer une application de gestion de produits et commandes avec Hibernate/J
 
 ## 📸 Captures d'écran des résultats
 
-### Résultat 1 : Liste des produits
-![Liste des produits](screenshots/ex1_liste_produits.png)
-*Description : Affichage de tous les produits avec leurs catégories*
 
-### Résultat 2 : Produits par catégorie
-![Produits par catégorie](screenshots/ex1_produits_categorie.png)
-*Description : Filtrage des produits par catégorie*
+<img width="1905" height="1193" alt="Screenshot 2025-10-26 211043" src="https://github.com/user-attachments/assets/44d66d90-a135-4061-a3a3-9b6e46690f5b" />
 
-### Résultat 3 : Produits avec prix > 100 DH
-![Produits prix supérieur](screenshots/ex1_produits_prix.png)
-*Description : Requête de produits avec prix supérieur à 100 DH*
-
-### Résultat 4 : Produits commandés entre deux dates
-![Produits entre dates](screenshots/ex1_produits_dates.png)
-*Description : Produits commandés sur une période donnée*
 
 ## 🚀 Exécution
 ```bash
@@ -181,29 +168,8 @@ Créer une application de gestion de projets avec suivi des tâches et affectati
 
 ## 📸 Captures d'écran des résultats
 
-### Résultat 1 : Liste des employés
-![Liste des employés](screenshots/ex2_liste_employes.png)
-*Description : Affichage de tous les employés enregistrés*
+<img width="1910" height="1128" alt="Screenshot 2025-10-26 212817" src="https://github.com/user-attachments/assets/9222c863-fa91-4d35-a71f-623b42ec6f52" />
 
-### Résultat 2 : Projets et leurs chefs
-![Projets et chefs](screenshots/ex2_projets_chefs.png)
-*Description : Liste des projets avec leurs chefs de projet*
-
-### Résultat 3 : Tâches d'un projet
-![Tâches du projet](screenshots/ex2_taches_projet.png)
-*Description : Toutes les tâches associées à un projet*
-
-### Résultat 4 : Tâches planifiées entre deux dates
-![Tâches planifiées](screenshots/ex2_taches_planifiees.png)
-*Description : Tâches planifiées sur une période donnée*
-
-### Résultat 5 : Tâches réalisées par un employé
-![Tâches réalisées](screenshots/ex2_taches_realisees.png)
-*Description : Liste des tâches effectuées par un employé spécifique*
-
-### Résultat 6 : Affectation employé-tâche
-![Affectations](screenshots/ex2_affectations.png)
-*Description : Vue des affectations avec dates réelles*
 
 ## 🚀 Exécution
 ```bash
@@ -276,33 +242,8 @@ Développer une application de gestion des mariages entre hommes et femmes avec 
 
 ## 📸 Captures d'écran des résultats
 
-### Résultat 1 : Liste des hommes
-![Liste des hommes](screenshots/ex3_liste_hommes.png)
-*Description : Affichage de tous les hommes enregistrés*
+<img width="1910" height="1195" alt="Screenshot 2025-10-26 214403" src="https://github.com/user-attachments/assets/950e62c0-8f38-41e1-a30a-cb2d4301735d" />
 
-### Résultat 2 : Liste des femmes
-![Liste des femmes](screenshots/ex3_liste_femmes.png)
-*Description : Affichage de toutes les femmes enregistrées*
-
-### Résultat 3 : Femmes épousées par un homme
-![Femmes épousées](screenshots/ex3_femmes_epousees.png)
-*Description : Liste de toutes les épouses d'un homme donné*
-
-### Résultat 4 : Nombre d'épouses d'un homme
-![Nombre d'épouses](screenshots/ex3_nombre_epouses.png)
-*Description : Décompte du nombre d'épouses*
-
-### Résultat 5 : Mariages d'une personne entre deux dates
-![Mariages entre dates](screenshots/ex3_mariages_dates.png)
-*Description : Mariages sur une période donnée*
-
-### Résultat 6 : Nombre d'enfants d'un couple
-![Nombre d'enfants](screenshots/ex3_nombre_enfants.png)
-*Description : Total des enfants d'un couple spécifique*
-
-### Résultat 7 : Femmes épousées entre deux dates
-![Épouses par période](screenshots/ex3_epouses_periode.png)
-*Description : Femmes épousées par un homme sur une période*
 
 ## 🚀 Exécution
 ```bash
@@ -422,24 +363,6 @@ Evaluation/
 
 ---
 
-## 📝 Notes importantes
-
-### Pour ajouter les captures d'écran
-
-1. Créer un dossier `screenshots` à la racine du projet Evaluation
-2. Exécuter chaque application et capturer les résultats
-3. Nommer les fichiers selon la convention :
-   - `ex1_*` pour l'exercice 1
-   - `ex2_*` pour l'exercice 2
-   - `ex3_*` pour l'exercice 3
-4. Les images seront automatiquement affichées dans ce README
-
-### Format des captures
-- **Format** : PNG (recommandé) ou JPG
-- **Résolution** : Suffisamment haute pour être lisible
-- **Contenu** : Console avec les résultats d'exécution
-
----
 
 ## 🐛 Dépannage
 
@@ -472,18 +395,9 @@ Solution : Vérifier les identifiants MySQL dans les fichiers de configuration
 
 ---
 
-## 👨‍💻 Auteur
-
-**Projet d'évaluation - Hibernate/JPA**
-- 📅 Date : Octobre 2025
-- 🎓 Formation : Développement Java avec Hibernate
-- 📧 Contact : [Votre email]
-
----
-
 ## 📄 Licence
 
-Ce projet est réalisé dans le cadre d'une évaluation académique.
+Ce projet est réalisé Par Karzouz Saad.
 
 ---
 
